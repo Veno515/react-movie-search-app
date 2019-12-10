@@ -5,7 +5,7 @@ import Movie from "./Movie";
 import Search from "./Search";
 
 
-const MOVIE_API_URL = "https://www.omdbapi.com/?s=man&apikey=7e636df9
+const MOVIE_API_URL = "https://www.omdbapi.com/?s=man&apikey=4a3b711b&__cf_chl_captcha_tk__=53126833ba7feed51e0c1133f8ab079baa760791-1575978864-0-AZkxYgrINWDkE37Kk2bwmighkrid44r3-gXci2UUFZEMLeXqfMD1EaISBpfCbRb671UJONAFGCH0rmjEqucxVZq_QvpT-V76mJmXFKwVZsK7j_eisADqkonYvtUTZ_LLxJZbhJVwcqWNrDW9hOP8GB__3sYt6-7DFqD3c4mPJaW0mycHXs0G03bFlgkA9FDZOBpe5RRlu3RqH-nYtSa0UCV0A_r9awGRNIUL2TJrE3fBLsiiEvJwK-uj9nlrpvmZQ535aoK8Um9l8jkWu4dX1CE-ChCippNJu-vUXFSEOZQlEJoYaJc7XJF0J20AQCJNuwytxxPrF_La9HdupZNAjfMeAs5KMVxGHXyoW6YlMd1y
 ";
 
 
